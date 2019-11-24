@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">SmartYou.Learn</string>
+    <string name="share_msg">Interested in learning a new skill. Download the "SmartYou.Learn" app now…</string>
+    <string name="app_url">https://www.villageprogrammer.tech</string>
+    <string name="about_file">file:///android_asset/about.html</string>
+    <string name="website_url">https://www.villageprogrammer.tech</string>
+    <string name="github_url">https://www.github.com/vikaspatelp83</string>
+    <string name="share">Share</string>
+    <string name="refresh">Refresh</string>
+    <string name="add_to_favourite">Add to Favourite</string>
+    <string name="exit_app">Exit App</string>
+    <string name="about">About</string>
+
+    <string-array name="cpp_tutorial">
+        <item>1.1 Intro to c++</item>
+        <item>1.2 Advantages and Disadvantages</item>
+        <item>2.1 Structure of program</item>
+        <item>3.1 Variables</item>
+        <item>3.2 Variable scope</item>
+        <item>3.3 Constants - Literals</item>
+        <item>3.4 Variable Storage Classes</item>
+        <item>3.5 Operators</item>
+        <item>4.1 Arrays</item>
+        <item>4.2 String</item>
+        <item>4.3 Pointer</item>
+        <item>4.4 Structure</item>
+        <item>4.5 Reference</item>
+        <item>4.6 Enumration and typedef</item>
+        <item>5.1 cout (output stream)</item>
+        <item>5.2 cin (input stream)</item>
+        <item>5.3 cerr (error stream)</item>
+        <item>5.4 clog (log stream)</item>
+        <item>6.1 Conditional branching - if</item>
+        <item>6.2 Conditional selection - switch</item>
+        <item>6.3 Loops - while and for</item>
+        <item>6.4 Break and Continue</item>
+        <item>6.5 Random number</item>
+        <item>7.1 Function Basics</item>
+        <item>7.2 Declaration, call and argument</item>
+        <item>7.3 Inline function</item>
+        <item>7.4 Recursion</item>
+        <item>8.1 Classes Basics</item>
+        <item>8.2 Constructor - Destructor</item>
+        <item>8.3 Friend Function</item>
+        <item>8.4 Inheritance</item>
+        <item>8.5 Function overloading</item>
+        <item>8.6 Operator Overloading</item>
+        <item>8.7 Polymorphism and virtual function</item>
+        <item>8.8 Data Abstraction</item>
+        <item>8.9 Data Encapsulation</item>
+        <item>9.1 File Handling</item>
+        <item>10.1 Exception handling</item>
+        <item>10.2 Dynamic Memory</item>
+        <item>10.3 Templates</item>
+        <item>10.4 Preprocessor</item>
+        <item>11.1 STL</item>
+    </string-array>
+
+    <string-array name="c_tutorial">
+        <item>1.1 Introduction</item>
+        <item>1.2 Advantages of C</item>
+        <item>2.1 Structure of program</item>
+        <item>3.1 Variables</item>
+        <item>3.2 Operators</item>
+        <item>4.1 Formatted IO - printf and scanf</item>
+        <item>4.2 Character IO - getchar and putchar</item>
+        <item>5.1 Conditional branching - if</item>
+        <item>5.2 Conditional selection - switch</item>
+        <item>5.3 Loops - while and for</item>
+        <item>5.4 Local Jumps goto</item>
+        <item>5.5 Break and Continue</item>
+        <item>6.1 Function Basics</item>
+        <item>6.2 Defination and Declaration</item>
+        <item>6.3 Standard Header Files</item>
+        <item>7.1 Blocks and Scope</item>
+        <item>7.2 Variable Storage Classes</item>
+        <item>7.3 Definition and Declaration</item>
+        <item>7.4 Initialization of Variables</item>
+        <item>8.1 Arrays</item>
+        <item>8.2 Pointer</item>
+        <item>8.3 String</item>
+        <item>9.1 Structure</item>
+        <item>9.2 Union</item>
+        <item>10.1 File Operations and Functions</item>
+        <item>11.1 C Preprocessor directives</item>
+
+    </string-array>
+
+    <string-array name="java_tutorial">
+        <item>1.1 Introduction</item>
+    </string-array>
+
+</resources>

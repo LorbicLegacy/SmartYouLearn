@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="appBarGray">#707070</color>
+    <color name="dropshadow">#E04B4B4B</color>
+    <color name="skybluelight">#CCE1F9</color>
+    <color name="pinklight">#E66FE6</color>
+    <color name="purple">#9D61DE</color>
+    <color name="canvascolor">#CCE1F9</color>
+    <color name="transparent">#00F9CCCC</color>
+    <color name="white">#ffffff</color>
+    <color name="darkPurple">#511E50</color>
+    <color name="darkPink">#AB2BB0</color>
+
+
+</resources>
